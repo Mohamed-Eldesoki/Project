@@ -42,12 +42,12 @@ More details can be found in the `Memory_Data.txt` file.
 
 ## 👥 Team (Team ID: 8208)
 
-1. محمد عادل السيد الدسوقي  
-2. احمد محمد فرج متولي  
-3. محمد علي السيد العشري  
-4. خالد ياسر السعيد خضر  
-5. الاء اشرف السيد متولي  
-6. حنين عماد السعيد بدوية
+1. Mohamed Adel Elsayed Eldesoky  
+2. Ahmed Mohamed Farag Metwally  
+3. Mohamed Ali Elsayed Elashry  
+4. Khaled Yasser Elsayed Khedr  
+5. Alaa Ashraf Elsayed Metwally  
+6. Haneen Emad Elsayed Badawy
 
 ---
 
