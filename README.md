@@ -1,5 +1,13 @@
 # Mano Basic Computer - Verilog Simulation Project
 
+## 🎬 Project Demo
+
+📽️ **Watch the Simulation in Action**  
+Check out our full video demonstration of the Mano Basic Computer simulation here:  
+👉 [Project Video Demo](https://drive.google.com/drive/folders/1sENxmsi0irYrGAmYCvUyOXRNzETVGUr_?usp=sharing)
+
+---
+
 ## 🖥️ Overview
 
 The **Mano Basic Computer** is a simplified processor architecture introduced by **Morris Mano**. It is widely used in educational settings to demonstrate how a CPU **fetches, decodes, and executes** instructions step by step.
@@ -17,7 +25,7 @@ This project simulates the **Mano Basic Computer architecture** using **behavior
 - **ALU** and `E` flip-flop
 - **Control Logic** and **Sequence Counter (SC)**
 - **Common Data Bus**: 16-bit
-- **Instruction Decoder`
+- **Instruction Decoder**
 
 ---
 
